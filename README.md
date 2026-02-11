@@ -33,3 +33,5 @@ Frequency Domain: The PSD shows that the filter successfully "rolls off" high-fr
 Trade-off: Filtering introduces a slight Phase Lag (time shift) and potential Amplitude Reduction depending on how close the cutoff frequency is to the signal frequency.
 
 All the plots and MATLAB Code itself can be seen in this repository
+
+Some plots are different due to changes in noise level, level of frequency and order
